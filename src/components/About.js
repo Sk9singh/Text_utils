@@ -31,7 +31,7 @@ const toggleStyle = ()=> {
 
 
   return (
-  <div classNameName='container'>
+  <div className='container'>
     <h1>About us</h1>
     <div className="accordion" id="accordionExample">
       <div className="accordion-item">
